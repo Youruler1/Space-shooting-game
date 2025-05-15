@@ -23,3 +23,4 @@ Uses OpenGL.
 > kill your opponent. <br />
 > Each time a player gets shot, LIFE decreases by 5 points. <br />
 
+![Image](https://github.com/user-attachments/assets/b713e8e3-0fce-433a-a3cc-e7923e752c14)
