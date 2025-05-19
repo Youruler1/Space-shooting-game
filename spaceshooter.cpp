@@ -1,5 +1,5 @@
 #ifdef _WIN32
-	#include<windows.h>
+#include<windows.h>
 #endif
 #include<stdio.h>
 #include<stdlib.h>
@@ -153,7 +153,7 @@ void startScreenDisplay()
 		glColor3f(0 ,0 ,1);
 		if(mButtonPressed){
 			viewPage = INSTRUCTIONS;
-			printf("button pressed bitch\n");
+			printf("button pressed\n");
 			mButtonPressed = false;
 		}
 	} else
